@@ -6,7 +6,7 @@ Time for good junior score: 360 days
 
 ## Quick lookup
 
-- <https://learnxinyminutes.com/docs/ru-ru/rust-ru/> \[RU\]
+- <https://learnxinyminutes.com/docs/rust>
 
 ## Interactive / Tours
 
@@ -50,6 +50,7 @@ Time for good junior score: 360 days
 - <https://github.com/vinodotdev/node-to-rust/releases/download/v1/from-javascript-to-rust.pdf>
 - <https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4/edit?usp=sharing>
 - <https://cheats.rs/dl/rust_cheat_sheet_a4.pdf>
+- <https://google.github.io/comprehensive-rust/comprehensive-rust.pdf> from **Google**
 
 ## For JS/TS/Web developers
 
