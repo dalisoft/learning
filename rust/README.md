@@ -28,7 +28,7 @@ Time for good junior score: 360 days
 ## Day-to-Day
 
 - <https://google.github.io/comprehensive-rust> from **Google**
-- <https://candle.dev/blog/javascript-to-rust/javascript-to-rust-day-1-rustup> *Maybe outdated*
+- <https://github.com/jsoverson/node-to-rust>
 - <https://tourofrust.com/TOC_en.html>
 - <https://metanit.com/rust/tutorial> \[RU\]
 
@@ -54,7 +54,7 @@ Time for good junior score: 360 days
 
 ## For JS/TS/Web developers
 
-- <https://candle.dev/blog/javascript-to-rust/javascript-to-rust-day-1-rustup> *Maybe outdated*
+- <https://github.com/jsoverson/node-to-rust>
 - <https://github.com/vinodotdev/node-to-rust/releases/download/v1/from-javascript-to-rust.pdf>
 
 ## For experiments
