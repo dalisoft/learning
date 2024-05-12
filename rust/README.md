@@ -1,8 +1,8 @@
 # Rust learning resources
 
-Average learning days: 100 days
-Time for good intern score: 180 days
-Time for good junior score: 360 days
+- Average learning days: 100 days
+- Time for good intern score: 180 days
+- Time for good junior score: 360 days
 
 ## Quick lookup
 
