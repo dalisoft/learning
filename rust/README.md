@@ -19,6 +19,7 @@
 
 - <https://github.com/ctjhoa/rust-learning>
 - <https://github.com/rust-unofficial/awesome-rust>
+- <https://github.com/sger/RustBooks>
 
 ## Cheatsheets
 
