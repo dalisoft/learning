@@ -12,6 +12,7 @@
 
 - <https://google.github.io/comprehensive-rust> from **Google**
 - <https://tourofrust.com/TOC_en.html>
+- <https://exercism.org/tracks/rust>
 
 ## Resources list
 
