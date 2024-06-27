@@ -12,6 +12,7 @@
 ## Interactive / Tours
 
 - <https://go.dev/tour/welcome/1> **Official tour**
+- <https://exercism.org/tracks/go>
 
 ## Resources list
 
