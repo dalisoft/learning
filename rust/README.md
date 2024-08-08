@@ -26,6 +26,7 @@
 
 - <https://cheats.rs>
 - <https://letsgetrusty.com/cheat-sheet-download-2.0>
+- <https://github.com/donbright/rust-lang-cheat-sheet>
 
 ## Day-to-Day
 
