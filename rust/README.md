@@ -25,7 +25,7 @@
 ## Cheatsheets
 
 - <https://cheats.rs>
-- <https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4/edit?usp=sharing>
+- <https://letsgetrusty.com/cheat-sheet-download-2.0>
 
 ## Day-to-Day
 
@@ -50,7 +50,7 @@
 
 - <https://github.com/shirshak55/Rust-Book-In-PDF>
 - <https://github.com/vinodotdev/node-to-rust/releases/download/v1/from-javascript-to-rust.pdf>
-- <https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4/edit?usp=sharing>
+- <https://letsgetrusty.com/cheat-sheet-download-2.0>
 - <https://cheats.rs/dl/rust_cheat_sheet_a4.pdf>
 - <https://google.github.io/comprehensive-rust/comprehensive-rust.pdf> from **Google**
 
