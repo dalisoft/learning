@@ -21,12 +21,14 @@
 - <https://github.com/ctjhoa/rust-learning>
 - <https://github.com/rust-unofficial/awesome-rust>
 - <https://github.com/sger/RustBooks>
+- <https://speedsheet.io/s/rust>
 
 ## Cheatsheets
 
 - <https://cheats.rs>
 - <https://letsgetrusty.com/cheat-sheet-download-2.0>
 - <https://github.com/donbright/rust-lang-cheat-sheet>
+- <https://zerotomastery.io/cheatsheets/rust-cheat-sheet>
 
 ## Day-to-Day
 
