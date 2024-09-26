@@ -36,11 +36,13 @@
 - <https://github.com/jsoverson/node-to-rust>
 - <https://tourofrust.com/TOC_en.html>
 - <https://metanit.com/rust/tutorial> \[RU\]
+- <https://github.com/Mercateo/rust-for-node-developers>
 
 ## Video
 
 - <https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8>
 - <https://www.youtube.com/watch?v=1QoT9fmPYr8> (for Rust lifetimes)
+- <https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa>
 
 ## Online books
 
@@ -61,6 +63,8 @@
 
 - <https://github.com/jsoverson/node-to-rust>
 - <https://github.com/vinodotdev/node-to-rust/releases/download/v1/from-javascript-to-rust.pdf>
+- <https://github.com/Mercateo/rust-for-node-developers>
+- <https://www.codegram.com/blog/rust-for-js-developers>
 
 ## For experiments
 
@@ -70,3 +74,4 @@
 
 - <https://sigoden.github.io/mynotes/languages/rust.html> or <https://github.com/sigoden/mynotes>
 - <https://fasterthanli.me>
+- <https://www.sheshbabu.com>
