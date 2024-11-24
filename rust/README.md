@@ -3,6 +3,8 @@
 - Average learning days: 100 days
 - Time for good intern score: 180 days
 - Time for good junior score: 360 days
+- Time for good middle score: 720 days
+- Time for senior score: 1080 or more days
 
 ## Quick lookup
 
@@ -13,6 +15,7 @@
 - <https://google.github.io/comprehensive-rust> from **Google**
 - <https://tourofrust.com/TOC_en.html>
 - <https://exercism.org/tracks/rust>
+- <https://github.com/rust-lang/rustlings>
 
 ## Resources list
 
@@ -43,10 +46,12 @@
 - <https://www.youtube.com/watch?v=OX9HJsJUDxA&list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8>
 - <https://www.youtube.com/watch?v=1QoT9fmPYr8> (for Rust lifetimes)
 - <https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa>
+- <https://www.youtube.com/playlist?list=PLZaoyhMXgBzoM9bfb5pyUOT3zjnaDdSEP>
 
 ## Online books
 
 - <https://doc.rust-lang.org/book> **Official book**
+- <https://doc.rust-lang.org/rust-by-example>
 - <https://rust-book.cs.brown.edu>
 - <https://google.github.io/comprehensive-rust> from **Google**
 - <https://dhghomon.github.io/easy_rust> *Maybe outdated?*
@@ -75,3 +80,7 @@
 - <https://sigoden.github.io/mynotes/languages/rust.html> or <https://github.com/sigoden/mynotes>
 - <https://fasterthanli.me>
 - <https://www.sheshbabu.com>
+
+## LinkedIn Course
+
+- <https://www.linkedin.com/learning/rust-essential-training>
