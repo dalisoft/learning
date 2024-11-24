@@ -85,3 +85,9 @@
 ## LinkedIn Course
 
 - <https://www.linkedin.com/learning/rust-essential-training>
+
+## References
+
+- <https://github.com/ImplFerris/LearnRust>
+- <https://github.com/ctjhoa/rust-learning>
+- <https://gist.github.com/cedrickchee/f729e848b52eab8fbc88a3910072198c>
