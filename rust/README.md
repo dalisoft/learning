@@ -40,6 +40,7 @@
 - <https://tourofrust.com/TOC_en.html>
 - <https://metanit.com/rust/tutorial> \[RU\]
 - <https://github.com/Mercateo/rust-for-node-developers>
+- <https://github.com/rust-lang/rustlings>
 
 ## Video
 
