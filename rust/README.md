@@ -16,6 +16,7 @@
 - <https://tourofrust.com/TOC_en.html>
 - <https://exercism.org/tracks/rust>
 - <https://github.com/rust-lang/rustlings>
+- <https://github.com/dtolnay/rust-quiz>
 
 ## Resources list
 
@@ -41,6 +42,7 @@
 - <https://metanit.com/rust/tutorial> \[RU\]
 - <https://github.com/Mercateo/rust-for-node-developers>
 - <https://github.com/rust-lang/rustlings>
+- <https://github.com/dtolnay/rust-quiz>
 
 ## Video
 
