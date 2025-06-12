@@ -31,6 +31,7 @@
 - <https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet>
 - <https://gto76.github.io/python-cheatsheet>
 - <https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf>
+- <https://gto76.github.io/python-cheatsheet>
 
 ## Day-to-Day
 
