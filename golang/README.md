@@ -13,8 +13,13 @@
 
 - <https://go.dev/tour/welcome/1> **Official tour**
 - <https://exercism.org/tracks/go>
+- <https://coddy.tech/explore/tag/go>
 
 ## Resources list
+
+- <https://github.com/freeCodeCamp/freeCodeCamp>
+- <https://github.com/codecrafters-io/build-your-own-x>
+- <https://github.com/jwasham/coding-interview-university>
 
 > Or awesome lists
 
@@ -23,6 +28,7 @@
 ## Cheatsheets
 
 - <https://devhints.io/go>
+- <https://roadmap.sh/golang>
 
 ## Day-to-Day
 
@@ -30,6 +36,8 @@
 - <https://gobyexample.com>
 - <https://metanit.com/go/tutorial> \[RU\]
 - <https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md> \[EN\] or <https://sefus.ru/little-go-book> \[RU\]
+- <https://coddy.tech/explore/tag/go>
+- <https://roadmap.sh/golang>
 
 ## Video
 

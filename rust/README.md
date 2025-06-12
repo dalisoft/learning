@@ -20,6 +20,10 @@
 
 ## Resources list
 
+- <https://github.com/freeCodeCamp/freeCodeCamp>
+- <https://github.com/codecrafters-io/build-your-own-x>
+- <https://github.com/jwasham/coding-interview-university>
+
 > Or awesome lists
 
 - <https://github.com/ctjhoa/rust-learning>
@@ -33,6 +37,7 @@
 - <https://letsgetrusty.com/cheat-sheet-download-2.0>
 - <https://github.com/donbright/rust-lang-cheat-sheet>
 - <https://zerotomastery.io/cheatsheets/rust-cheat-sheet>
+- <https://roadmap.sh/rust>
 
 ## Day-to-Day
 
@@ -43,6 +48,8 @@
 - <https://github.com/Mercateo/rust-for-node-developers>
 - <https://github.com/rust-lang/rustlings>
 - <https://github.com/dtolnay/rust-quiz>
+- <https://coddy.tech/landing/rust>
+- <https://roadmap.sh/rust>
 
 ## Video
 
