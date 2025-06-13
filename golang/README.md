@@ -24,6 +24,7 @@
 > Or awesome lists
 
 - <https://github.com/avelino/awesome-go>
+- <https://github.com/dariubs/GoBooks>
 
 ## Cheatsheets
 
@@ -49,11 +50,13 @@
 - <https://gobyexample.com>
 - <https://www.golang-book.com/books/intro>
 - <https://github.com/karlseguin/the-little-go-book/blob/master/en/go.md> \[EN\] or <https://sefus.ru/little-go-book> \[RU\]
+- <https://miek.nl/go>
 
 ## Offline Books
 
 - <https://www.golang-book.com/public/pdf/gobook.pdf>
 - <https://www.openmymind.net/assets/go/go.pdf>
+- <https://mark-summerfield.github.io/gobook.html>
 
 ## For JS/TS/Web developers
 

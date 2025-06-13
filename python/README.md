@@ -39,6 +39,7 @@
 - <https://coddy.tech/landing/python>
 - <https://roadmap.sh/python>
 - <https://www.codedex.io/python>
+- <https://github.com/donnemartin/interactive-coding-challenges>
 
 ## Video
 

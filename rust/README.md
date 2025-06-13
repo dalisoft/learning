@@ -73,6 +73,7 @@
 - <https://letsgetrusty.com/cheat-sheet-download-2.0>
 - <https://cheats.rs/dl/rust_cheat_sheet_a4.pdf>
 - <https://google.github.io/comprehensive-rust/comprehensive-rust.pdf> from **Google**
+- <https://github.com/QMHTMY/RustBook>
 
 ## For JS/TS/Web developers
 
