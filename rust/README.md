@@ -38,6 +38,7 @@
 - <https://github.com/donbright/rust-lang-cheat-sheet>
 - <https://zerotomastery.io/cheatsheets/rust-cheat-sheet>
 - <https://roadmap.sh/rust>
+- <https://fasterthanli.me/articles/a-half-hour-to-learn-rust>
 
 ## Day-to-Day
 
